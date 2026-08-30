@@ -92,7 +92,7 @@ Type 'help' to see the commands I know.
 ## 🌐 Live Demo
 
 **QueryBot:**
-](https://shubhshukla2026.github.io/DecodeLab-Internships/)
+](https://shubhshukla2026.github.io/DecodeLab-Internships/project-1)
 ---
 
 ## 🛠️ Built With
