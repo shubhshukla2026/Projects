@@ -81,3 +81,12 @@ No build step or server required.
 
 - `scikit-learn` (CLI only — `TfidfVectorizer`, `cosine_similarity`)
 - The web demo has zero dependencies (TF-IDF implemented from scratch in JS)
+
+🌐 Live Demo: (https://shubhshukla2026.github.io/DecodeLab-Internships/project-3)
+
+👨‍💻 Author
+Shubh Shukla
+
+🎓 Student & Developer 🚀 GitHub Project 📚 DecodeLabs — Project 3
+
+⭐ Thanks for checking out my project!
