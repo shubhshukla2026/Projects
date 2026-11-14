@@ -1,5 +1,4 @@
 # Project 2: Data Classification Using AI
-**DecodeLabs Industrial Training Kit — Batch 2026**
 
 ## Goal
 Build a basic classification model using a small dataset (the classic Iris
