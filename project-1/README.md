@@ -1,10 +1,10 @@
-# 🤖 QueryBot — DecodeLabs Project 1
+# 🤖 QueryBot — Project 1
 
-> My first GitHub project and my first project at **DecodeLabs**.
+> My first GitHub project and my first project at .
 
 QueryBot is a simple **rule-based chatbot** made using HTML, CSS, and JavaScript.
 
-This is **Project 1** of my DecodeLabs learning journey. I built this project to understand the basics of creating an interactive web application, handling user input, using JavaScript logic, and working with the DOM.
+This is **Project 1** of my  learning journey. I built this project to understand the basics of creating an interactive web application, handling user input, using JavaScript logic, and working with the DOM.
 
 The chatbot does not use an external AI API. Instead, it matches the user's message with predefined responses and replies accordingly.
 
@@ -201,11 +201,11 @@ While building this project, I got practical experience with:
 
 ---
 
-## 🏆 DecodeLabs
+## 🏆 
 
 **Project 1 — Rule-Based Chatbot**
 
-This project was completed as part of my learning journey at **DecodeLabs**.
+This project was completed as part of my learning journey at ****.
 
 It is my **first project on GitHub**, and I plan to keep improving my development skills and building more projects.
 
@@ -217,7 +217,7 @@ Shubh Shukla
 
 🎓 Student & Developer
 🚀 First GitHub Project
-📚 DecodeLabs — Project 1
+📚  — Project 1
 
 ---
 
