@@ -1,7 +1,6 @@
 # Tech Stack Recommender
 
 **Project 3 — AI Recommendation Logic**
-DecodeLabs Industrial Training Kit — Batch 2026
 
 A content-based recommendation engine that maps a user's skills and interests to the tech job roles they best match, using **TF-IDF vectorization** and **cosine similarity**. The project ships two parallel implementations: a Python CLI and a self-contained interactive web demo.
 
@@ -87,6 +86,6 @@ No build step or server required.
 👨‍💻 Author
 Shubh Shukla
 
-🎓 Student & Developer 🚀 GitHub Project 📚 DecodeLabs — Project 3
+🎓 Student & Developer 🚀 GitHub Project 📚  — Project 3
 
 ⭐ Thanks for checking out my project!
