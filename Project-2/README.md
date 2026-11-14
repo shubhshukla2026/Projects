@@ -1,4 +1,4 @@
-# Project 2: Data Classification Using AI
+# Project: Data Classification Using AI
 
 ## Goal
 Build a basic classification model using a small dataset (the classic Iris
